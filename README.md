@@ -1,2 +1,2 @@
 # TSP
-An ant colony optimization implementation for the traveling salesman problem.
+An Ant Colony Optimization implementation of the travelling salesman problem in Java.
